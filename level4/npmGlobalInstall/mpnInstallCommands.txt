@@ -1,0 +1,3 @@
+npm install underscore
+
+npm install cofeee-script -g 
